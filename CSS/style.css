@@ -1,0 +1,143 @@
+div{
+	width:150px;
+	height: 150px;
+	float:left;
+}
+
+h1{
+	font-family: serif;
+	color:grey;
+	font-size:20px; 
+}
+
+hr{
+	width:60px;
+	height:5px;
+	background-color: grey;
+	position:relative;
+	right:500px;
+	margin-top:-10px;
+	margin-bottom: 30px;
+}
+
+#coder1{
+	background-image: url(../IMG/primera_foto.jpg);
+	background-size:cover;
+
+
+
+}
+
+#coder1 h5{
+	background-color: black;
+	color:#fff;
+	text-align: right;
+	position:relative;
+	top:110px;
+	right:0px;
+	font-family: serif;
+	font-size:10px;
+
+}
+#coder2{
+	background-image: url(../IMG/akane.jpg);
+	background-size: 100%;
+	position: relative;
+	left:30px;
+}
+
+#coder2 h5{
+	background-color: blue;
+	color:#fff;
+	text-align:right;
+	position:relative;
+	top:110px;
+	right:0px;
+	font-family:serif;
+	font-size:10px;
+
+}
+
+#coder3{
+	background-image: url(../IMG/bulma.jpg);
+	background-size: 100%;
+	position: relative;
+	left:60px;
+}
+
+#coder3 h5{
+	background-color: green;
+	color:#fff;
+	text-align: right;
+	position: relative;
+	top:110px;
+	right:0px;
+	font-family: serif;
+	font-size: 10px;
+}
+
+#coder4{
+	background-image: url(../IMG/kasumi.jpg);
+	background-size: cover;
+	position:relative;
+	top:150px;
+	margin-top:40px;
+	right:450px;
+}
+
+#coder4 h5{
+	background-color: brown;
+	color:#fff;
+	text-align: right;
+	position:relative;
+	top:110px;
+	right:0px;
+	font-family: serif;
+	font-size:10px;
+}
+
+#coder5{
+	background-image: url(../IMG/Lisa_Simpson.png);
+	background-size: 100%;
+	position: relative;
+	top:150px;
+	margin-top:40px;
+	right:420px;
+}
+
+#coder5 h5{
+	background-color: purple;
+	color:#fff;
+	text-align: right;
+	position: relative;
+	top:110px;
+	right:0px;
+	font-family: serif;
+	font-size:10px;
+}
+
+#coder6{
+	background-image: url(../IMG/nabiki.jpg);
+	background-size: cover;
+	position:relative;
+	top:150px;
+	margin-top: 40px;
+	right:390px;
+
+
+}
+
+#coder6 h5{
+	background-color: red;
+	
+
+	color:#fff;
+	text-align: right;
+	position:relative;
+	top:110px;
+	right:0px;
+	font-family: serif;
+	font-size: 10px;
+	
+
+}
